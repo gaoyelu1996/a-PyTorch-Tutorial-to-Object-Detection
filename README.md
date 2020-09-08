@@ -132,7 +132,7 @@ In this tutorial, we will encounter both types – just boxes and bounding boxes
 
 The most obvious way to represent a box is by the pixel coordinates of the `x` and `y` lines that constitute its boundaries.
 
-![](./img/bc1.PNG)
+![](https://github.com/gaoyelu1996/a-PyTorch-Tutorial-to-Object-Detection/raw/master/img/bc1.PNG)
 
 The boundary coordinates of a box are simply **`(x_min, y_min, x_max, y_max)`**.
 
